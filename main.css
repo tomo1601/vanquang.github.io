@@ -1,0 +1,226 @@
+
+a{
+    text-decoration: none;
+}
+body{
+    margin: 0px;
+    background-color: #e5e5e5;
+}
+.menu-bar{
+    width: 345px;
+    height: 920px;
+    background-color: #ffffff;
+    margin-top: -31px;
+    margin-left: -8px;
+    float: left;
+}
+.text-home{
+    width: 300px;
+    height: 72px;
+    margin-top: 24px;
+    margin-left: 30px;
+    padding-top: 1px;
+    padding-bottom: 35px;
+}
+.logo-text{
+    font-size: 42px;
+    color: #6061dc;
+}
+.list-menu{
+    width: 252px;
+    height: 363px;
+    margin-left: 42px;
+    background-color: #ffffff;
+}
+.img {
+    float: left;
+    margin-left: 30px
+}
+.text{
+    float: left;
+    width: 100px;
+    height: 22px;
+    color: #8e8ea1;
+    margin-left: 30px;
+}
+.search{
+    width: 600px;
+    height: 60px;
+    margin-top: 30px;
+    margin-left: 50px;
+    border-radius: 40px;
+    float: left;
+    background-color: #ffffff;
+}
+#search-value{
+    width: 411px;
+    height: 34px;
+    margin-top: -36px;
+    margin-left: 87px;
+    display: block;
+    background-color: white;
+    color: #8e8ea1;
+    border: none;
+    outline: none;
+}
+.list-acc{
+    width: 1050px;
+    height: 700px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 30px;
+    border-style: outset;
+    background-color: #ffffff;
+}
+.tttk{
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 52px;
+    font-size: 23px;
+}
+.table-tk{
+    width: 900px;
+    margin-top: -40px;
+    margin-left: 35px;
+    font-size: 20px;
+
+ }
+.title-table{
+    width: 900px;
+    height: 112px;
+}
+.cont-table{
+    text-align: center;
+
+}
+.td{
+    text-align: center;
+    font-size: 14px;
+}
+
+
+
+/* customer */
+
+.list-cus{
+    width: 1050px;
+    height: 700px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 30px;
+    border-style: outset;
+    background-color: #ffffff;
+}
+.ttkh{
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 52px;
+    font-size: 23px;
+}
+.table-kh{
+    width: 900px;
+    margin-top: -40px;
+    margin-left: 35px;
+    font-size: 20px;
+
+}
+
+/* gửi rút*/
+.phieu-tt{
+    width: 1050px;
+    height: 600px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 30px;
+    border-style: outset;
+    background-color: #ffffff;
+}
+.ptt{
+    width: 300px;
+    margin-top: 55px;
+    margin-left: 52px;
+    font-size: 23px;
+}
+
+.cont-ptt{
+    margin-top: 30px;
+    margin-left: 55px;
+}
+
+.input-tt-1{
+    width: 350px;
+    height: 55px;
+    margin-left: 50px;
+    margin-top: 35px;
+    float: left;
+}
+.input-tt-2{
+    width: 700px;
+    height: 55px;
+    float: left;
+    margin-top: 35px;
+    margin-left: 50px;
+}
+.cont-input{
+    width: 300px;
+    height: 34px;
+    border-radius: 30px;
+    padding-left: 20px;
+}
+.cont-input-2{
+    width: 700px;
+    height: 34px;
+    border-radius: 30px;
+    padding-left: 30px;
+}
+.btn-nap-tien{
+    width: 300px;
+    height: 75px;
+    margin-top: 50px;
+    margin-left: 500px;
+    border-radius: 30px;
+    background-color: #6061dc;
+    float: left;
+}
+.btn-rut-tien{
+    width: 300px;
+    height: 75px;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 30px;
+    background-color: #6061dc;
+    float: left;
+}
+.btn {
+    width: 300px;
+    height: 75px;
+    border-radius: 30px;
+    outline: none;
+    color: white;
+    font-size: 29px;
+    background-color: #6061dc;
+}
+
+.btn-add-acc{
+    width: 300px;
+    height: 75px;
+    margin-top: 50px;
+    margin-left: 600px;
+    border-radius: 30px;
+    background-color: #6061dc;
+    float: left;
+}
+
+.phieu-tt-detail{
+    width: 1050px;
+    height: 650px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 30px;
+    border-style: outset;
+    background-color: #ffffff;
+}
